@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(219, 9, 156);
+}
+.pagina{
+    background-image: url(vialactea.webp);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    bottom: 0;
+    color:  rgb(219, 9, 156);
+    left: 0;
+    overflow: auto;
+    padding:3em;
+    position:absolute;
+    text-align: center;
+}  
+#fotos{ 
+    width: 100%;
+    height: auto;
+}
+
+.pagina h1 img{
+    width: 80%;
+    height: 20%;
+    float: left;
+    color: red;
+    left: 0;
+    text-align: center;
+    top: 0;
+    position: relative;
+    overflow: auto;
+
+}
+.pagina h2 img{
+    width: 50%;
+    height: 20%;
+    float: left;
+    color: rgb(8, 3, 3);
+    left: 0;
+    text-align: center;
+    top: 0;
+    position: relative;
+    overflow: auto;
+}
